@@ -1,0 +1,14 @@
+lab1_os/Debug/*
+lab2_os/Debug/*
+lab1_os/.vs/*
+lab2_os/.vs/*
+lab1_os/lab1_os.sln
+lab2_os/lab2_os.sln
+lab1_os/lab1_os/Debug/*
+lab2_os/lab2_os/Debug/*
+lab1_os/lab1_os/lab1_os.vcxproj
+lab1_os/lab1_os/lab1_os.vcxproj.filters
+lab1_os/lab1_os/lab1_os.vcxproj.user
+lab2_os/lab2_os/lab2_os.vcxproj
+lab2_os/lab2_os/lab2_os.vcxproj.filters
+lab2_os/lab2_os/lab2_os.vcxproj.user
